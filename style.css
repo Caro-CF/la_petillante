@@ -1,0 +1,15 @@
+img {
+    max-width: 100px;
+}
+
+.hidden{
+  display: none;
+}
+
+li {
+  list-style: none;
+}
+
+#header {
+  background-color: bbff33;
+}
